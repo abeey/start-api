@@ -1,0 +1,16 @@
+[
+	{
+		"nama" : "Febri Nahrul",
+		"umur" : 28,
+		"status" : true,
+		"hobby": ["futsal", "coding"],
+		"atasan" : ["Wadir SDM", "Direktur"]
+	},
+	{
+		"nama" : "Febri Nahrul",
+		"umur" : 28,
+		"status" : true,
+		"hobby": ["futsal", "coding"],
+		"atasan" : ["Wadir SDM", "Direktur"]
+	}
+]
